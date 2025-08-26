@@ -23,6 +23,7 @@
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)  
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
 ![Embedded C](https://img.shields.io/badge/-Embedded%20C-orange?style=for-the-badge)  
+![Socket Programming](https://img.shields.io/badge/Socket%20Programming-000000?style=for-the-badge)  
 ![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux)  
 ![Windows](https://img.shields.io/badge/-Windows-blue?style=for-the-badge&logo=windows)  
 ![Raspbian](https://img.shields.io/badge/-Raspbian-BC1142?style=for-the-badge&logo=raspberrypi&logoColor=white)  
@@ -32,7 +33,7 @@
 ![LPC2148](https://img.shields.io/badge/-LPC2148-blue?style=for-the-badge)  
 ![LPC2129](https://img.shields.io/badge/-LPC2129-darkblue?style=for-the-badge)  
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)  
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)  
+![Raspberry Pi4](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)  
 
 **Protocols & Communication**  
 ![UART](https://img.shields.io/badge/-UART-yellow?style=for-the-badge)  
@@ -45,8 +46,9 @@
 ![GCC](https://img.shields.io/badge/-GCC-darkgreen?style=for-the-badge&logo=gnu&logoColor=white)  
 ![Keil](https://img.shields.io/badge/-Keil-blue?style=for-the-badge)  
 ![Makefile](https://img.shields.io/badge/-Makefile-lightgrey?style=for-the-badge)  
-![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)  
-![GNU Debugger (GDB)](https://img.shields.io/badge/-VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+
+**Debugger**  
+![GDB](https://img.shields.io/badge/GDB-6E4C13?style=for-the-badge)  
 
 ---
 
@@ -63,20 +65,15 @@
   <img src="https://github-readme-stats.vercel.app/api?username=harishrautcodz&show_icons=true&theme=tokyonight" alt="stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harishrautcodz&theme=tokyonight" alt="streak" />
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishrautcodz&layout=compact&theme=tokyonight" alt="langs" />
 </p>
 
----
-
-### 🐍 Contribution Graph
-![snake gif](https://github.com/harishrautcodz/harishrautcodz/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ### 🌐 Connect with Me  
-<p align="left">
-<a href="https://linkedin.com/in/harish raut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harish raut" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/harishraut" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harish raut" height="30" width="40" />
+  </a>
 </p>
